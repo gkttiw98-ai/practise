@@ -3,6 +3,4 @@
 <div>Gaurav</div>
 Add GKTTIW(*)
 
-
-gkt is a good boy
  
